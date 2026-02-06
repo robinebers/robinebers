@@ -1,15 +1,22 @@
 # Hey, I'm Robin Ebers 👋
 
-I help businesses build AI-powered products in 30 days (without the code).
+I help businesses build AI-powered products in 90 days (without the code).
 
 20+ years in development. Now I teach non-technical founders and professionals how to ship real products using AI tools like Cursor and Claude Code.
 
-37,000+ students learning to build with AI on my YouTube channel.
+41,000+ students learning to build with AI on my YouTube channel.
 
 ## Work With Me
 
 - [Blueprint](https://itsbyrob.in/blueprint) - Learn My Proven Process
 - [Inner Circle](https://itsbyrob.in/inner-circle) - Weekly In-Depth Group Coaching
+
+## My Apps
+
+- [OpenUsage](https://www.openusage.ai)
+- [MacroPulse](https://www.macropulse.ai)
+- [MacroPulse Mobile](https://testflight.apple.com/join/7XQbZr3h)
+- [Augenblick](https://github.com/robinebers/augenblick)
 
 ## Learn From Me
 
