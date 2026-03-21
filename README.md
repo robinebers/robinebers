@@ -8,8 +8,7 @@ I help businesses build AI-powered products in 90 days (without the code).
 
 ## Work With Me
 
-- [Blueprint](https://itsbyrob.in/blueprint) - Learn My Proven Process
-- [Inner Circle](https://itsbyrob.in/inner-circle) - Weekly In-Depth Group Coaching
+- [The AI Architect Program](https://itsbyrob.in/architect) - Live Cohort + Weekly Group Training
 
 ## Learn From Me
 
