@@ -17,14 +17,12 @@ Join the [AI Builder's Lab](https://itsbyrob.in/lab) newsletter to be first in l
 ## Learn From Me
 
 - [AI Builder's Lab](https://itsbyrob.in/lab) - Weekly AI Building Insights
-- [Prompt Coach](https://itsbyrob.in/prompt-coach) - Master AI Prompt
+- [Prompt Coach](https://itsbyrob.in/prompt-coach) - Master AI Prompting for AI coding
 
 ## Apps I Built
 
-- [OpenUsage](https://www.openusage.ai) -  AI Usage Tracker
+- [OpenUsage](https://www.openusage.ai) -  AI Usage Tracker with 6k+ daily users
 - [MacroPulse](https://www.macropulse.ai) - Financial AI Insights
-- [MacroPulse Mobile](https://testflight.apple.com/join/7XQbZr3h) - ^ Native App of MacroPulse
-- [Augenblick](https://github.com/robinebers/augenblick) - ADHD-Friendly Note Taker
 
 ## Find Me Here
 
