@@ -1,39 +1,23 @@
-# Hey, I'm Robin Ebers 👋
+# Hey, I'm Rob 👋
 
-I help businesses build AI-powered products in 90 days (without the code).
+I help coaches sell on camera in a few hours a week, without becoming content creators.
 
-20+ years in development. Now I teach non-technical founders and professionals how to ship real products using AI tools like Cursor and Claude Code.
+25 years as a lead engineer, head of product, and agency owner. Never once did I like making content. So I did what engineers do and built the thing I needed: AI systems that plan, edit, and post for me (and now for my clients too).
 
-45,000+ students learning to build with AI on my YouTube channel.
+## The Attention Machine™
 
-## Work With Me
+Post every day on 2 hours a week. You sit down once a week with your phone and talk. The machine plans, edits, and captions everything else, and it still sounds like you.
 
-The **AI Architect Program** is an ongoing implementation lab for business owners who want to build and launch custom micro-apps without becoming developers.
-
-In your first 90 days, you'll ship one useful business micro-app for your business. Over 6 months, you'll build the skills, systems, and confidence to improve it, launch safely, and build the next one faster.
-
-Join the [AI Builder's Lab](https://itsbyrob.in/lab) newsletter to be first in line when enrollment opens once a month for a limited time.
+👉 [Hire your AI editor](https://www.attentionmachine.ai)
 
 ## Learn From Me
 
-- [AI Builder's Lab](https://itsbyrob.in/lab) - Weekly AI Building Insights
-- [Prompt Coach](https://itsbyrob.in/prompt-coach) - Master AI Prompting for AI coding
-
-## Apps I Built
-
-- [OpenUsage](https://www.openusage.ai) -  AI Usage Tracker with 6k+ daily users
-- [MacroPulse](https://www.macropulse.ai) - Financial AI Insights
+- [Weekly AI Workflows](https://www.robinebers.com): my weekly newsletter
+- [AI Content for Coaches](https://www.skool.com/attention/about): the community where I show you exactly how I do it
 
 ## Find Me Here
-
-### Most Active
 
 - [YouTube](https://itsbyrob.in/youtube)
 - [X/Twitter](https://itsbyrob.in/x)
 
-### Also Posting Here
-
-- [LinkedIn](https://itsbyrob.in/linkedin)
-- [Threads](https://itsbyrob.in/threads)
-- [Instagram](https://itsbyrob.in/instagram)
-- [TikTok](https://itsbyrob.in/tiktok)
+— Rob · team@robinebers.com
